@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727110687 source:c:\users\lavis\onedrive\documents\c projects\xyz\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+

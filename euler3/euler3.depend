@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727281510 source:c:\users\lavis\onedrive\documents\c projects\euler3\main.c
+	<math.h>
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<assert.h>
+	<limits.h>
+	<stdbool.h>
+
